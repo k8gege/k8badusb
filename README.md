@@ -1,6 +1,6 @@
 # k8badusb
 BadUSB Teensy exploit<br>
-Date: 2015
+Date: year 2015<br>
 K8 BadUSB Teensy downexec for (Windows & Linux).ino<br>
 全网唯一同时兼容所有Windows系统以及Linux系统下载者<br>
 PS：下载者即远程下载exe到目标机器并执行,通谷的说就是种马。<br>
